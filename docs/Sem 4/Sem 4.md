@@ -3,11 +3,11 @@
 ## Subjects
 
 1. [Fundamentals of Data Science](Fundamentals%20of%20DataScience/2marks)
-2. [Introduction to Fintech](introduction-to-fintech.md)
-3. [Optimization Techniques](optimization-techniques.md)
-4. [Database Management System](database-management-system.md)
-5. [Design and Analysis of Algorithms](design-and-analysis-of-algorithms.md)
-6. [Universal Human Values](universal-human-values.md)
+2. [Introduction to Fintech](/)
+3. [Optimization Techniques](/)
+4. [Database Management System](/)
+5. [Design and Analysis of Algorithms](/)
+6. [Universal Human Values](/)
 
 ## Important Questions
 
