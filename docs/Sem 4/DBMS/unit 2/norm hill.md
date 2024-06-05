@@ -1,0 +1,5 @@
+![image](https://i.postimg.cc/NGWc1fh5/DBMS-UNIT-2-ANSWER-KEY-pdf-image-013.png)
+![image](https://i.postimg.cc/W17cLGdk/DBMS-UNIT-2-ANSWER-KEY-pdf-image-014.jpg)
+![image](https://i.postimg.cc/0yv1BWyv/DBMS-UNIT-2-ANSWER-KEY-pdf-image-015.jpg)
+![image](https://i.postimg.cc/YqYw8Kk8/DBMS-UNIT-2-ANSWER-KEY-pdf-image-016.jpg)
+![image](https://i.postimg.cc/CKLTFR86/DBMS-UNIT-2-ANSWER-KEY-pdf-image-017.jpg)

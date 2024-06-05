@@ -4,8 +4,8 @@
 
 1. [Fundamentals of Data Science](Fundamentals%20of%20DataScience/2marks)
 2. [Introduction to Fintech](Introduction%20to%20Fintech/2marks)
-3. [(Not Ready)Optimization Techniques](/)
-4. [(Not Ready)Database Management System](/)
+3. [Optimization Techniques](optimization%20techniques/)
+4. [Database Management System](DBMS/)
 5. [(Not Ready)Design and Analysis of Algorithms](/)
 6. [Universal Human Values](Universal%20Human%20Values/2marks)
 
