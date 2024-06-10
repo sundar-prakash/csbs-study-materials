@@ -6,7 +6,7 @@
 2. [Introduction to Fintech](Introduction%20to%20Fintech/2marks)
 3. [Optimization Techniques](optimization%20techniques/)
 4. [Database Management System](DBMS/)
-5. [(Not Ready)Design and Analysis of Algorithms](/)
+5. [Design and Analysis of Algorithms](DAA/)
 6. [Universal Human Values](Universal%20Human%20Values/2marks)
 
 ## Important Questions
