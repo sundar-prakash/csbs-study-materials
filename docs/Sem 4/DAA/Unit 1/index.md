@@ -1,7 +1,7 @@
 # Unit 1
-## Question 1 i) Discuss concisely the concepts of Big Oh Notation, Omega Notation, and Theta Notation, which are forms of asymptotic notation used to describe the time complexity of algorithms. Provide an example illustrating each notation. ii) Employ the most suitable notation to signify the time efficiency class of the sequential search algorithm concerning its worst case, best case, and average case scenarios.
+## Question 1 i Discuss concisely the concepts of Big Oh Notation, Omega Notation, and Theta Notation, which are forms of asymptotic notation used to describe the time complexity of algorithms. Provide an example illustrating each notation. ii Employ the most suitable notation to signify the time efficiency class of the sequential search algorithm concerning its worst case, best case, and average case scenarios.
 
-### i) Asymptotic Notations: Big O, Omega, and Theta
+### i Asymptotic Notations: Big O, Omega, and Theta
 
 Asymptotic notations are mathematical tools used to describe the time complexity of algorithms. They provide a way to express the growth rate of an algorithm's running time as the input size increases. The three most common asymptotic notations are Big O, Omega (Ω), and Theta (Θ).
 
@@ -20,7 +20,7 @@ Asymptotic notations are mathematical tools used to describe the time complexity
 - **Mathematical Representation**: \( T(n) = \Theta(f(n)) \) if there exist constants \( c_1, c_2 > 0 \) and \( n_0 \) such that \( c_1 \cdot f(n) \leq T(n) \leq c_2 \cdot f(n) \) for all \( n \geq n_0 \).
 - **Example**: For the same algorithm with a running time of \( T(n) = 3n^2 + 2n + 1 \), the Theta notation is \( \Theta(n^2) \). This means the running time grows quadratically, which is a tight bound.
 
-### ii) Time Efficiency of Sequential Search Algorithm
+### ii Time Efficiency of Sequential Search Algorithm
 
 The sequential search algorithm, also known as linear search, checks each element of a list one by one until the target element is found or the list ends. The time complexity varies based on the scenario:
 
@@ -40,7 +40,7 @@ The sequential search algorithm, also known as linear search, checks each elemen
 - **Scenario**: The target element is somewhere in the list, assumed to be uniformly distributed.
 - **Time Complexity**: On average, the algorithm will need to check half of the elements.
 - **Notation**: \( \Theta(n) \)
-- **Explanation**: The average number of comparisons is \(\frac{n}{2}\), which grows linearly with the number of elements.
+- **Explanation**: The average number of comparisons is frac\(n\){2}, which grows linearly with the number of elements.
 
 ---
 ## Question 2 Interpret the general plan for mathematical analysis of both recursive and non-recursive relations. Additionally, State an algorithm for computing the factorial of a given number and analyze its efficiency
